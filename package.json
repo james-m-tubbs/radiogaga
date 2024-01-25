@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "discord-player": "^6.6.7",
+    "discord.js": "^14.14.1",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
